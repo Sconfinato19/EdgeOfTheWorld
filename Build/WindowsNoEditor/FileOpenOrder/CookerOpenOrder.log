@@ -203,8 +203,8 @@
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 202
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 203
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 204
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 205
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 206
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 205
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 206
 "../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 207
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 208
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 209
@@ -231,79 +231,79 @@
 "../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/Surfaces/Coal_Debris_pjBdz0/Normal_2K_pjBdz0.uasset" 230
 "../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/Surfaces/Coal_Debris_pjBdz0/Albedo_2K_pjBdz0.uasset" 231
 "../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/Surfaces/Coal_Debris_pjBdz0/Coal_Debris_pjBdz0_inst.uasset" 232
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/Surfaces/Canyon_Rocky_Ground_vepqchs/Roughness_2K_vepqchs.uasset" 233
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/Surfaces/Canyon_Rocky_Ground_vepqchs/Normal_2K_vepqchs.uasset" 234
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/Surfaces/Canyon_Rocky_Ground_vepqchs/Albedo_2K_vepqchs.uasset" 235
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/Surfaces/Canyon_Rocky_Ground_vepqchs/Canyon_Rocky_Ground_vepqchs_inst.uasset" 236
-"../../../Engine/Content/BasicShapes/Cube.uasset" 237
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Materials/LightMaterial.uasset" 238
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Hints/HealingHint.uasset" 239
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Sounds/Buttons/button_press.uasset" 240
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Sounds/Buttons/button-hover.uasset" 241
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Hints/NextPressed.uasset" 242
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Hints/NextHovered.uasset" 243
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Hints/Next.uasset" 244
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Pause/PAUSE.uasset" 245
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Pause/Continue_Game_pressed.uasset" 246
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Pause/Continue_Game_hovered.uasset" 247
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Pause/Continue_Game.uasset" 248
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/MainMenu/Exit_Game_Pressed.uasset" 249
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/MainMenu/Exit_Game_Hovered.uasset" 250
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/MainMenu/Exit_Game.uasset" 251
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/PauseMenu.uasset" 252
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/HPState.uasset" 253
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/InGame/HPFill.uasset" 254
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/InGame/HPBorder.uasset" 255
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/HP.uasset" 256
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/HealingAbilityState.uasset" 257
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/HealAbility.uasset" 258
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/EvolutionState.uasset" 259
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/InGame/Evolution_3.uasset" 260
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/InGame/Evolution_2.uasset" 261
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/InGame/Evolution1.uasset" 262
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Evolution.uasset" 263
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/ArtifactsLeftState.uasset" 264
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/ArtifactsLeft.uasset" 265
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 266
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Sounds/ArtifactsSound.uasset" 267
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Sounds/ArtifactSound2.uasset" 268
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/3D_Assets/Japanese_Stone_Lantern_ufnscjdga/Roughness_2K_ufnscjdga.uasset" 269
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/3D_Assets/Japanese_Stone_Lantern_ufnscjdga/Normal_2K_LOD0_ufnscjdga.uasset" 270
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/MSPresets/MS_DefaultMaterial_Fuzzy/Functions/MF_Transmission.uasset" 271
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/MSPresets/MS_DefaultMaterial_Fuzzy/Functions/MF_Tiling.uasset" 272
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/MSPresets/MS_DefaultMaterial_Fuzzy/Functions/MF_MapAdjustments.uasset" 273
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/MSPresets/MS_DefaultMaterial_Fuzzy/Functions/MF_Fuzz.uasset" 274
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/MSPresets/MS_DefaultMaterial_Fuzzy/Functions/MF_DetailNormalTiling.uasset" 275
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/MSPresets/MS_DefaultMaterial_Fuzzy/MS_DefaultMaterial_Fuzzy.uasset" 276
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/3D_Assets/Japanese_Stone_Lantern_ufnscjdga/Fuzz_2K_ufnscjdga.uasset" 277
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/3D_Assets/Japanese_Stone_Lantern_ufnscjdga/Albedo_2K_ufnscjdga.uasset" 278
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/3D_Assets/Japanese_Stone_Lantern_ufnscjdga/Japanese_Stone_Lantern_ufnscjdga_inst.uasset" 279
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/3D_Assets/Japanese_Stone_Lantern_ufnscjdga/Japanese_Stone_Lantern_LOD0_ufnscjdga.uasset" 280
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interactions/Artifact.uasset" 281
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Character/MainGameInstance.uasset" 282
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Character/Status_Nefinato.uasset" 283
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/MainInterface.uasset" 284
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/DeathScreen/YOU_DIED.uasset" 285
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/DeathScreen/Restart_from_last_checkpoint_pressed.uasset" 286
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/DeathScreen/Restart_from_last_checkpoint_hovered.uasset" 287
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/DeathScreen/Restart_from_last_checkpoint.uasset" 288
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/MainMenu/Edge_Of_The_World_Miraz_Test.uasset" 289
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Finish/You_spent_minutes.uasset" 290
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Finish/Final.uasset" 291
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/FinishScreen.uasset" 292
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/InGame/Deimos.uasset" 293
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/BossHpState.uasset" 294
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/AI/BossStatus.uasset" 295
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 296
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Materials/DarkLightMaterial.uasset" 297
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/AI/Boss.uasset" 298
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/BossHP.uasset" 299
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/AI/BossController.uasset" 300
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/DeathScreen.uasset" 301
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Character/Main_Controller.uasset" 302
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/HealingHint.uasset" 303
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Hints/Explosion.uasset" 304
-"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/ExplosionHint.uasset" 305
+"../../../Engine/Content/BasicShapes/Cube.uasset" 233
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/Surfaces/Canyon_Rocky_Ground_vepqchs/Roughness_2K_vepqchs.uasset" 234
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/Surfaces/Canyon_Rocky_Ground_vepqchs/Normal_2K_vepqchs.uasset" 235
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/Surfaces/Canyon_Rocky_Ground_vepqchs/Albedo_2K_vepqchs.uasset" 236
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/Surfaces/Canyon_Rocky_Ground_vepqchs/Canyon_Rocky_Ground_vepqchs_inst.uasset" 237
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/HPState.uasset" 238
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/InGame/HPFill.uasset" 239
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/InGame/HPBorder.uasset" 240
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/HP.uasset" 241
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/HealingAbilityState.uasset" 242
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/HealAbility.uasset" 243
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/EvolutionState.uasset" 244
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/InGame/Evolution_3.uasset" 245
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/InGame/Evolution_2.uasset" 246
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/InGame/Evolution1.uasset" 247
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Evolution.uasset" 248
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/ArtifactsLeftState.uasset" 249
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/ArtifactsLeft.uasset" 250
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 251
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Sounds/ArtifactsSound.uasset" 252
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Sounds/ArtifactSound2.uasset" 253
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/MSPresets/MS_DefaultMaterial_Fuzzy/Functions/MF_Transmission.uasset" 254
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/MSPresets/MS_DefaultMaterial_Fuzzy/Functions/MF_Tiling.uasset" 255
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/MSPresets/MS_DefaultMaterial_Fuzzy/Functions/MF_MapAdjustments.uasset" 256
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/MSPresets/MS_DefaultMaterial_Fuzzy/Functions/MF_Fuzz.uasset" 257
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/MSPresets/MS_DefaultMaterial_Fuzzy/Functions/MF_DetailNormalTiling.uasset" 258
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/MSPresets/MS_DefaultMaterial_Fuzzy/MS_DefaultMaterial_Fuzzy.uasset" 259
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/3D_Assets/Japanese_Stone_Lantern_ufnscjdga/Fuzz_2K_ufnscjdga.uasset" 260
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/3D_Assets/Japanese_Stone_Lantern_ufnscjdga/Albedo_2K_ufnscjdga.uasset" 261
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/3D_Assets/Japanese_Stone_Lantern_ufnscjdga/Roughness_2K_ufnscjdga.uasset" 262
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/3D_Assets/Japanese_Stone_Lantern_ufnscjdga/Normal_2K_LOD0_ufnscjdga.uasset" 263
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/3D_Assets/Japanese_Stone_Lantern_ufnscjdga/Japanese_Stone_Lantern_ufnscjdga_inst.uasset" 264
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/3D_Assets/Japanese_Stone_Lantern_ufnscjdga/Japanese_Stone_Lantern_LOD0_ufnscjdga.uasset" 265
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interactions/Artifact.uasset" 266
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Character/MainGameInstance.uasset" 267
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Pause/PAUSE.uasset" 268
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Pause/Continue_Game_pressed.uasset" 269
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Pause/Continue_Game_hovered.uasset" 270
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Pause/Continue_Game.uasset" 271
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/MainMenu/Exit_Game_Pressed.uasset" 272
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/MainMenu/Exit_Game_Hovered.uasset" 273
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/MainMenu/Exit_Game.uasset" 274
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Sounds/Buttons/button_press.uasset" 275
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Sounds/Buttons/button-hover.uasset" 276
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/PauseMenu.uasset" 277
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/DeathScreen/YOU_DIED.uasset" 278
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/DeathScreen/Restart_from_last_checkpoint_pressed.uasset" 279
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/DeathScreen/Restart_from_last_checkpoint_hovered.uasset" 280
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/DeathScreen/Restart_from_last_checkpoint.uasset" 281
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/MainMenu/Edge_Of_The_World_Miraz_Test.uasset" 282
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Finish/You_spent_minutes.uasset" 283
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Finish/Final.uasset" 284
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/FinishScreen.uasset" 285
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/InGame/Deimos.uasset" 286
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/BossHpState.uasset" 287
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/AI/BossStatus.uasset" 288
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 289
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Materials/DarkLightMaterial.uasset" 290
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/AI/Boss.uasset" 291
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/BossHP.uasset" 292
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/AI/BossController.uasset" 293
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/DeathScreen.uasset" 294
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Character/Main_Controller.uasset" 295
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Character/Status_Nefinato.uasset" 296
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/MainInterface.uasset" 297
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Hints/HealingHint.uasset" 298
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Hints/NextPressed.uasset" 299
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Hints/NextHovered.uasset" 300
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Hints/Next.uasset" 301
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/HealingHint.uasset" 302
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/Hints/Explosion.uasset" 303
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interface/ExplosionHint.uasset" 304
+"../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Materials/LightMaterial.uasset" 305
 "../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Character/Nefinato.uasset" 306
 "../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Interactions/Darkness.uasset" 307
 "../../../../../../Users/User/Documents/Unreal Projects/EdgeOfTheWorld/Content/Megascans/Surfaces/Mossy_Forest_Floor_vlsqeips/Roughness_2K_vlsqeips.uasset" 308
